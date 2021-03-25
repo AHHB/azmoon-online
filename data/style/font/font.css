@@ -1,0 +1,9 @@
+﻿@font-face {
+    font-family: 'BBadr';
+    src: url('BBadr.eot?#') format('eot'),
+    url('BBadr.woff') format('woff'),
+    url('BBadr.ttf') format('truetype');
+}
+h1 , h2 , h3 , h4 , h5 , h6 , a , p , b , ul , u , abbr , xor , wbr , vkern , view , video , vectorproduct , variance , use , uplimit , uplimit , union , tt , tspan , true , tref , transpose , track , title , times , thead , tfoot , textPath , textarea , tendsto , template , td , tbody , tanh , table , symbol , switch , svg , sup , summary , subset , style , strong , strike , stop , span , source  {
+    font-family:Bbadr;
+}
