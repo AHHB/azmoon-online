@@ -1,7 +1,7 @@
 # azmoon-online
 
 azmoon-online is a simple Online exam builder. With it, you can easily take exams and competitions for free as an online exam.Create your exam by registering in the system. 
-[Demo](http://azmoon-online.gigfa.com) version1.4
+[Demo](http://azmoon-online.b6b.ir) version1.4
 
 ### Installation
 
